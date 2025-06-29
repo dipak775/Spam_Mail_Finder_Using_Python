@@ -1,0 +1,23 @@
+At Anaconda, we regularly review our terms to better serve our valued users and community. We're pleased to share updates to our Terms of Service and related policies, effective July 15, 2025.
+
+ 
+
+We've redesigned our Terms of Service to make them easier to understand. Key changes include:
+
+Simplified language in user-friendly formats
+Additional clarity on which products fall under our core Terms of Service and may require payment versus which have their own separate terms (including Miniconda and Anaconda.org, which remain free to use)
+Expanded guidelines for free usage eligibility (individuals, for-profit organizations with 200 or fewer total workers, and Eligible Academic Institutions along with Eligible Non-Profit and Research Organizations)
+New concepts for paying customers of “identified users,” who may access Anaconda across multiple machines on a single license, and “unidentified users,” who must have one license per instance
+New terms regarding enterprise scaled usage patterns and mirroring, both of which require specific pricing
+Expanded commitment to our community with the Anaconda for Education Program free for Eligible Academic Institutions and a new Non-Profit and Research Policy governing free access to Eligible Non-Profit and Research Organizations
+No action is needed from you at this time, but by continuing to use Anaconda's Platform on or after July 15th, you will be prompted to confirm that you have agreed to our updated Terms of Service. For existing paid customers who purchased under a custom MSA or similar agreement, it is important to note that the terms of your existing agreement remain in effect. You can review the full terms at https://anaconda.com/legal/terms/terms-of-service.
+
+ 
+
+You can read more about our commitment to the community in a message from our Founder Peter Wang here.
+
+ 
+
+Thank you, 
+
+The Anaconda Team
